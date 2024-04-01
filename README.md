@@ -29,3 +29,4 @@ Our Home Furniture Ecommerce Website offers a seamless and enjoyable shopping ex
 
 Feel free to explore the codebase to understand the implementation details and customize it according to your requirements. Whether you're a furniture retailer, designer, or homeowner looking to create an online store for home furniture, our Home Furniture Ecommerce Website provides a solid foundation to build upon.
 
+
